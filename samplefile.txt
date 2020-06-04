@@ -1,3 +1,7 @@
 local  repository - initial content
 second cmment
+<<<<<<< HEAD
 fourth cmmnt
+=======
+third cmmnt
+>>>>>>> feauture
